@@ -32,6 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 	int val;
+	cout << "Hann Stebbi var litill hann var 8 ara tritill" << endl;
 	do
 	{
 		cout << endl << endl << endl;
