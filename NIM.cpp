@@ -32,6 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 	int val;
+        cout << "I Command you to grow!"
 	cout << "Hann Stebbi var litill hann var 8 ara tritill" << endl;
 	do
 	{
@@ -54,8 +55,7 @@ int main( )
 			break;
 		}
 	}
-	while ( val != 3 );
-
+	while ( val != 3);
 	return 0;
 }
 
